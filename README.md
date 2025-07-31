@@ -219,7 +219,8 @@ graph TD
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 👥 Authors
-- Abdiawal Aden - Initial work - https://github.com/awale398
+Maryam Adan
+- Initial work - https://github.com/awale398
 
 ## 🙏 Acknowledgments
 - Thanks to all contributors who have helped shape OpenTrust
